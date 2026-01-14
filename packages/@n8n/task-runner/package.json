@@ -38,7 +38,7 @@
     "@n8n/di": "workspace:*",
     "@n8n/errors": "workspace:^",
     "@sentry/node": "catalog:",
-    "acorn": "8.14.0",
+    "acorn": "8.14.1",
     "acorn-walk": "8.3.4",
     "lodash": "catalog:",
     "luxon": "catalog:",
